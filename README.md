@@ -1,4 +1,4 @@
-# Natural-Language-Processing
+# Natural-Language-Processing Daily
 
 This repo contains some NLP concepts and projects that I have learnt about and implemented in the past.
 
