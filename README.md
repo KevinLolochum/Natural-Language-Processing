@@ -9,4 +9,4 @@ The sources range from books, to documentatation, to online resources.
 3. [Removing stop_words from text](https://github.com/KevinLolochum/Natural-Language-Processing-Daily/blob/main/Removing_stop_words.ipynb)
 4. [Stemming/Lemmantization](https://github.com/KevinLolochum/Natural-Language-Processing-Daily/blob/main/Lemmatisation_of_text.ipynb)
 5. [Regular Expressions Summary](https://github.com/KevinLolochum/Natural-Language-Processing-Daily/blob/main/Regex.ipynb)
-6. BOW vs TF-IDF(https://github.com/KevinLolochum/Natural-Language-Processing-Daily/blob/main/BOW_vs_TF_IDF.ipynb)
+6. [BOW vs TF-IDF](https://github.com/KevinLolochum/Natural-Language-Processing-Daily/blob/main/BOW_vs_TF_IDF.ipynb)
